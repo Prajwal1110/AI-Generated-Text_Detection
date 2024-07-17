@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+*.venv/
+
+# Model files
+*.h5
+*.hdf5
+*.pkl
+
+# Logs and runtime metrics
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Jupyter Notebook auto-generated files
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# Data files (uncomment the following line if you have data files that should not be tracked)
+# data/
+
+# Compiled Python modules
+*.pyc
+
+# macOS metadata files
+.DS_Store
+
+# Windows metadata files
+Thumbs.db
+
+# Linux Trash folder which might appear on any partition or disk
+.Trash-*/
+
+# Ignore .gitignore itself if this file is in the root directory
+!.gitignore
