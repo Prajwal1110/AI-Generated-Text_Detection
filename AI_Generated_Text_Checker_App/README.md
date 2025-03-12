@@ -37,6 +37,3 @@ $ pip install -r requirements.txt
 ```
 - Run index.py file
 
-## Contact
-
-For any feedback or queries, please reach out to me at [suwaidaslam@gmail.com](suwaidaslam@gmail.com) or My Linkedin @suwaidaslam.
